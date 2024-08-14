@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adil-abbasi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on coding projects related to computer science
   
 
