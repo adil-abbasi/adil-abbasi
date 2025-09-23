@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @adil-abbasi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on coding projects related to computer science
-  
+I’m passionate about AI/ML, Data Science, and Software Development. Skilled in Java, Python, SQL, and Spring Boot, with hands-on experience in building projects like LMS platforms, AI assistants, and predictive models. Always eager to learn, collaborate, and contribute to impactful open-source and professional projects.
 
 
 <!---
